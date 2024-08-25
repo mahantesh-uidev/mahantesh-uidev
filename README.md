@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Mahantesh Hiremath, An enthusiastic UI Developer.
+- 👀 I’m interested in building Frontend/UI applications using React, Redux Toolkit, Tailwind CSS, ES6+ features, HTML5, CSS3, JavaScript, Angular, SCSS, etc.
+- 🌱 I’m currently learning React and enhancing my React skillsets by Namaste React Course.
+- 💞️ I’m looking to collaborate on **Linked In: https://www.linkedin.com/in/mahantesh-hiremath-uidev/**
+- 📫 How to reach me on **Mobile: +91 8095966486** and **Gmail: mahantesh.uideveloper@gmail.com**
+- 😄 Thank you for visiting my GitHub profile.
+- ⚡ Have a great day!
